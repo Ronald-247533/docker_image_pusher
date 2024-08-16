@@ -1,2 +1,3 @@
 python:3.10-slim-bullseye
 tomcat:9.0
+ubuntu:18.04
