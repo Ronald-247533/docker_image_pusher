@@ -1,7 +1,2 @@
-python:3.10-slim-bullseye
-tomcat:9.0.78-jdk8-corretto
-ubuntu:20.04
-ubuntu:22.04
-chainflag/solidctf:1.0.0
-chainflag/fogeth:latest
-chainflag/eth-faucet:1.1.0
+mattrayner/lamp:latest-2004-php7
+vulnerables/web-dvwa
