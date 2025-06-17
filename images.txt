@@ -1,3 +1,1 @@
-mattrayner/lamp:latest-2004-php7
-vulnerables/web-dvwa
-python:3.9.12
+ubuntu:22.04
