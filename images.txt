@@ -1,1 +1,2 @@
-tomcat:8.5.37-jre8-slim
+mysql:5.7.37-debian
+openresty/openresty:1.21.4.4-alpine-apk
